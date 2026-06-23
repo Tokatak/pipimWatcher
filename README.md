@@ -13,6 +13,9 @@
 - **PPM 6** binary support
 
 ## Screenshots
+<img width="491" height="550" alt="image" src="https://github.com/user-attachments/assets/5117f2c6-ddcd-4fb7-b751-4deffdaacce2" />
+<img width="491" height="550" alt="image" src="https://github.com/user-attachments/assets/53d73573-26c4-4c40-aad5-b234f85640c8" />
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/1ae5b1b2-8dcc-479e-a36c-150a0487f696" />
 
 # Building
 
